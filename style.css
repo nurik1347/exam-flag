@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.HEADER {
+    width: 100%;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #2B3844;
+    display: flex;
+    justify-content: space-between;
+    padding: 23px 81px;
+
+}
+
+.header__p {
+    display: flex;
+    gap: 8px;
+}
+
+.header__p>p {
+    font-family: Nunito Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.82px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.PPPP {
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 32.74px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+
+.IMG {
+    width: 20px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.inp1 {
+    width: 480px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 13px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px 30px 0 40px;
+    padding: 10px 32px;
+    display: flex;
+}
+.inp1>img {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.inp1>.input1 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: 8px 10px;
+}
+.inp2 {
+    width: 180px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 20px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px  30px 0 0 ;
+    padding: 17px 32px;
+    display: flex;
+
+}
+
+.inp2>.input2 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: ;
+    width: 80px;
+}
+.inp2>img {
+    width: 20px;
+    height: 20px;
+}
+form {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.inp3 {
+    width: 180px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 20px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px  30px 0 0 ;
+    padding: 17px 32px;
+    display: flex;
+
+}
+
+.main__div_2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 75px;
+    margin: 48px 80px;
+}
+
+.inp3>.input3 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: ;
+    width: 80px;
+}
+.inp3>img {
+    width: 20px;
+    height: 20px;
+}
+
+
+.inp4 {
+    width: 180px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 20px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px  30px 0 0 ;
+    padding: 17px 32px;
+    display: flex;
+
+}
+
+.inp4>.input4 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: ;
+    width: 80px;
+}
+.inp4>img {
+    width: 20px;
+    height: 20px;
+}
+
+.inp5 {
+    width: 180px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 20px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px  30px 0 0 ;
+    padding: 17px 32px;
+    display: flex;
+
+}
+
+.inp5>.input5 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: ;
+    width: 80px;
+}
+.inp5>img {
+    width: 20px;
+    height: 20px;
+}
+
+
+.inp6 {
+    width: 180px;
+    height: 56px;
+    top: 128px;
+    left: 80px;
+    gap: 20px;
+    opacity: 0px;
+    background-color: #2B3844;
+    margin: 48px  30px 0 0 ;
+    padding: 17px 32px;
+    display: flex;
+
+}
+
+.inp6>.input6 {
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: white;
+    background-color: #2B3844;
+    border: none;
+    margin: ;
+    width: 80px;
+}
+.inp6>img {
+    width: 20px;
+    height: 20px;
+}
+
+
+.H1 {
+    color: white;
+}
+
+.PPPPP {
+    color: white;
+}
+
+.pppp {
+    color: white;
+}
+.PpPp {
+    color: #FFFFFF;
+}
+.main__div_2 {
+
+}
